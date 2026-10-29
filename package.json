@@ -20,6 +20,14 @@
   ],
   "author": "Soumya Bhandare (krishyaa06)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishyaa06/prism-sentinel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krishyaa06/prism-sentinel/issues"
+  },
+  "homepage": "https://krishyaa06.github.io/prism-bots-panel/#/bot/sentinel",
   "engines": {
     "node": ">=18.17"
   },
